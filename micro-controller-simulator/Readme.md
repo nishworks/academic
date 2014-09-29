@@ -9,6 +9,7 @@ using Inter-Process communication (IPC).
 
 
 Features:
+
 	CPU
    	It has these registers:  PC, SP, IR, AC, X, Y.
    	It supports the instructions shown at the end of this document.
