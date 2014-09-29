@@ -3,6 +3,28 @@ Readme.txt
 
 MACHINE 1000 - The microprocessor simulator !
 
+The project simulates a simple computer system consisting of a CPU and Memory.
+The CPU and Memory will be simulated by separate processes that communicate
+using Inter-Process communication (IPC).
+
+
+Features:
+	CPU
+   	It has these registers:  PC, SP, IR, AC, X, Y.
+   	It supports the instructions shown at the end of this document.
+   	Instructions are fetched into the IR.  The operand can be fetched into a local variable.
+   	The stack resides at the end of memory and grows down toward the program.
+   	The program ends when the End instruction is executed.
+
+	Memory
+   	It consists of 1000 integer entries.
+   	All memory is both readable and writeable.
+   	There is no memory protection.
+   	Memory will initialize itself by reading a file named “program.m1k” beginning at address 0.
+   	Each line in the file holds one integer which may be an instruction or an operand.
+   	It supports two operations:
+       		read(address) returns the value at the address
+       		write(address, data) writes the data to the address
 
 Main Program :
 	1. cpu.c
@@ -22,10 +44,7 @@ Sample source code files:
 
 Execution Details:
 	This is the main program file. It can be compiled using a gcc compiler.
-	On Unix/Linux -
-	To compile write on a Unix/Linux bash : gcc cpu.c -o cpu1 
-	This line will compile cpu to cpu1.
-	
+
 	To run the compiled file  :  ./cpu argument
 	Argument = filename containing one instruction per line
 
