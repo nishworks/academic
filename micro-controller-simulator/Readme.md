@@ -62,15 +62,15 @@ Instruction set
     										If port=2, reads a char from the keyboard, stores it in the AC
     9 = Put port							If port=1, writes an int to the screen
 											If port=2, writes a char to the screen				
-   10 = CopyToX								Copy the value in the AC to X
-   11 = CopyToY								Copy the value in the AC to Y
-   12 = CopyFromX							Copy the value in X to the AC
-   13 = CopyFromY							Copy the value in Y to the AC
-   14 = Jump addr 							Jump to the address
-   15 = JumpIfEqual addr 					Jump to the address only if the value in the AC is zero
-   16 = JumpIfNotEqual addr 				Jump to the address only if the value in the AC is not zero
-   17 = Call addr 							Push return address onto stack, jump to the address
-   18 = Ret  								Pop return address from the stack, jump to the address
-   19 = IncX  								Increment the value in X
-   20 = DecX 								Decrement the value in X
-   30 = End									End execution	
+    10 = CopyToX								Copy the value in the AC to X
+    11 = CopyToY								Copy the value in the AC to Y
+    12 = CopyFromX							Copy the value in X to the AC
+    13 = CopyFromY							Copy the value in Y to the AC
+    14 = Jump addr 							Jump to the address
+    15 = JumpIfEqual addr 					Jump to the address only if the value in the AC is zero
+    16 = JumpIfNotEqual addr 				Jump to the address only if the value in the AC is not zero
+    17 = Call addr 							Push return address onto stack, jump to the address
+    18 = Ret  								Pop return address from the stack, jump to the address
+    19 = IncX  								Increment the value in X
+    20 = DecX 								Decrement the value in X
+    30 = End									End execution	
