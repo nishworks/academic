@@ -23,35 +23,35 @@ A Post Office is simulated by using threads to model customer and employee behav
 
 
 Customer:
-            1)  50 customers visit the Post Office (1 thread per customer up to 50), all created initially.
-            2)  Only 10 customers can be inside the Post Office at a time.
-            3)  Each customer upon creation is randomly assigned one of the following tasks:
-            a)  buy stamps
-            b)  mail a letter
-            c)  mail a package
-            4)  Times for each task are defined in the task table.
+        1.  50 customers visit the Post Office (1 thread per customer up to 50), all created initially.
+        2.  Only 10 customers can be inside the Post Office at a time.
+        3.  Each customer upon creation is randomly assigned one of the following tasks:
+            a.  buy stamps
+            b.  mail a letter
+            c.  mail a package
+        4.  Times for each task are defined in the task table.
 
 
 Postal Worker:
-            1)  3 created initially, one thread each.
-            2)  Serves next customer in line.
-            3)  Service time varies depending on customer task.
+        1.  3 created initially, one thread each.
+        2.  Serves next customer in line.
+        3.  Service time varies depending on customer task.
 
 
 Scales:
-            1)  Used by the postal worker when mailing a package.
-            2)  There is only one, which can only be used one at a time. 
-            3)  The scales are not a thread.  They are just a resource the postal worker threads use. 
+        1.  Used by the postal worker when mailing a package.
+        2.  There is only one, which can only be used one at a time. 
+        3.  The scales are not a thread.  They are just a resource the postal worker threads use. 
 
 
 Other rules:
-            1)  A thread should sleep 1 second in the program for each 60 seconds listed in the table.  
-            2)  All mutual exclusion and coordination must be achieved with semaphores.  
-            3)  A thread may not use sleeping as a means of coordination.  
-            4)  Busy waiting (polling) is not allowed. 
-            5)  Mutual exclusion should be kept to a minimum to allow the most concurrency.
-            6)  Each thread should print when it is created and when it is joined.
-            7)  Each thread should only print its own activities.  The customer threads prints customer actions and the postal worker threads prints postal worker actions.  
+        1.  A thread should sleep 1 second in the program for each 60 seconds listed in the table.  
+        2.  All mutual exclusion and coordination must be achieved with semaphores.  
+        3.  A thread may not use sleeping as a means of coordination.  
+        4.  Busy waiting (polling) is not allowed. 
+        5.  Mutual exclusion should be kept to a minimum to allow the most concurrency.
+        6.  Each thread should print when it is created and when it is joined.
+        7.  Each thread should only print its own activities.  The customer threads prints customer actions and the postal worker threads prints postal worker actions.  
 
 Summary:
 
