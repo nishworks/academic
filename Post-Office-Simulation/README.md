@@ -3,6 +3,7 @@ Threads & Semaphores
 Source code File : code.cpp
 
 To Compile:
+
 			Type exactly as following, in the directory containing code.cpp file.
 			g++ code.cpp -lpthread -o code
 
@@ -23,6 +24,7 @@ A Post Office is simulated by using threads to model customer and employee behav
 
 
 Customer:
+
         - 50 customers visit the Post Office (1 thread per customer up to 50), all created initially.
         - Only 10 customers can be inside the Post Office at a time.
         - Each customer upon creation is randomly assigned one of the following tasks:
@@ -33,18 +35,21 @@ Customer:
 
 
 Postal Worker:
+
         - 3 created initially, one thread each.
         - Serves next customer in line.
         - Service time varies depending on customer task.
 
 
 Scales:
+
         - Used by the postal worker when mailing a package.
         - There is only one, which can only be used one at a time. 
         - The scales are not a thread.  They are just a resource the postal worker threads use. 
 
 
 Other rules:
+
         - A thread should sleep 1 second in the program for each 60 seconds listed in the table.  
         - All mutual exclusion and coordination must be achieved with semaphores.  
         - A thread may not use sleeping as a means of coordination.  
