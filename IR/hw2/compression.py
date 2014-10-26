@@ -7,7 +7,7 @@ basic methods in compression.
 
 """
 
-from math import log
+from math import log,ceil
 
 def gammaEncoding(number):
  
@@ -24,8 +24,6 @@ def gammaEncoding(number):
  
         gammaCode = ''.join([str(unary), str(offset)])
         return gammaCode
- 
-#print gammaEncoding(10)
  
 def deltaEncoding(number):
  
@@ -45,5 +43,7 @@ def bytes_needed(n):
         return 1
     return int(log(n,256)) + 1
  
-def byte_length(i):
-    return (i.bit_length() + 7) // 8
+def bytes(n):
+    if n == 0:
+        return 1
+    return ceil(len(n)/8.0)
