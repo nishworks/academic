@@ -15,6 +15,10 @@ List of Projects:
 
         Post-office-Simulator
 
-   Information Retrieval:
-	
-	Index-creation-for-search-Engines
+    Information Retrieval:
+
+        Index-creation-for-search-Engines
+
+    Artifical Intelligence:
+
+        N-Tile-Puzzle-Using-Hill-Climbing-Algorithm
