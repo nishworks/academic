@@ -29,8 +29,9 @@ def log(num):
 class Query():
 
     def __init__(self, query):
-
+        #query  = query.replace('-', ' ')
         self.tokens = self.parse(query)
+        self.indexedForm = ' '.join(self.tokens)
         self.docs = self.get_docs(self.tokens)
         self.w1 = dict()
         self.w2 = dict()
@@ -52,19 +53,31 @@ class Query():
 
 
     def calcW1(self, token, doc):
-        term1 = log(0.5 + get_tf(token, doc))/log(get_maxtf(doc)+1.0)
+        if get_df(token) == 0:
+            return 0
+        tf = get_tf(token, doc)
+        maxtf = get_maxtf(doc)
+        df = get_df(token)
+        cs = get_collectionsize()
+        term1 = log(0.5 + tf)/log(maxtf+1.0)
         term1 = 0.4 + (0.6*term1) 
-        term2 = log(get_collectionsize()/get_df(token))/log(get_collectionsize())
+        term2 = log(cs/df)/log(cs)
         return term1*term2
 
-    def calcW2(self,token, doc):   
-        term1 = get_tf(token, doc) + 0.5 + (1.5*get_doclen(doc)/get_avgdoclen())
-        term1 = get_tf(token, doc)/term1
-        term2 = log(get_collectionsize()/get_df(token))/log(get_collectionsize())
+    def calcW2(self,token, doc):
+        if get_df(token) == 0:
+            return 0
+        tf = get_tf(token, doc)
+        df = get_df(token)
+        doclen = get_doclen(doc)
+        avgdoclen = get_avgdoclen()
+        cs = get_collectionsize()
+
+        term1 = tf + 0.5 + (1.5*doclen/avgdoclen)
+        term1 = tf/term1
+        term2 = log(cs/df)/log(cs)
         term = 0.4 + (0.6*term1*term2)
         return term
-
-
 
     # Get the union of all the documents for a query
     def get_docs(self, tokens):

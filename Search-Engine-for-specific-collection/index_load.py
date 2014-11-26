@@ -5,9 +5,15 @@ import pickle
 
 _f1 = open('Index_Version1', 'r')
 _f2 = open('Index_Version2', 'r')
+_f3 = open('headlines', 'r')
 
 _index_version1 = pickle.load(_f1)
 _index_version2 = pickle.load(_f2)
+_headlines = pickle.load(_f3)
+
+_f1.close()
+_f2.close()
+_f3.close()
 
 _index = _index_version2
 
@@ -22,10 +28,16 @@ _avgDocLen /= _collectionSize
 
 #Helper methods for index information
 def get_docList(token):
-    return _index.Term_dict[token]['docList']
+    try:
+        return _index.Term_dict[token]['docList']
+    except:
+        return []
 
 def get_df(token):
-    return float(_index.Term_dict[token]['df'])
+    try:
+        return float(_index.Term_dict[token]['df'])
+    except:
+        return 0
 
 def get_tf(token,doc):
     try:
@@ -46,8 +58,10 @@ def get_collectionsize():
 def get_avgdoclen():
     return float(_avgDocLen)
 
+def headline(doc):
+    return _headlines[doc].strip("<TITLE>").strip().strip("\n").strip(".")[:50]
 
-_f1.close()
-_f2.close()
+
+
 
 
