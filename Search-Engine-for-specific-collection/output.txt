@@ -1,0 +1,600 @@
+Query 1 : what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft
+Indexed form for query : similar law must obey construct aeroelast model heat high speed aircraft
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     51      2.05976  theory of aircraft structural models subjected to 
+     2     486     1.94790  similarity laws for aerothermoelastic testing 
+     3     329     1.85515  various aerodynamic characteristics in hypersonic 
+     4     573     1.67352  viscous hypersonic similitude 
+     5     12      1.57636  some structural and aerelastic considerations of h
+     6     14      1.56699  piston theory - a new aerodynamic tool for the aer
+     7     792     1.55329  some low speed problems of high speed aircraft 
+     8     1147    1.54276  heat transfer to bodies traveling at high speed in
+     9     878     1.53498  experimental model techniques and equipment for fl
+     10    1144    1.50906  slipstream flow around several tilt-wing vtol airc
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     51      5.07535  theory of aircraft structural models subjected to 
+     2     486     4.99440  similarity laws for aerothermoelastic testing 
+     3     878     4.89697  experimental model techniques and equipment for fl
+     4     573     4.89674  viscous hypersonic similitude 
+     5     12      4.89235  some structural and aerelastic considerations of h
+     6     746     4.78247  aeroelastic problems in connection with high speed
+     7     944     4.76470  one dimensional heat conduction through the skin o
+     8     879     4.76367  flutter model testing at transonic speeds 
+     9     141     4.76291  free-flight techniques for high speed aerodynamic 
+     10    13      4.74220  similarity laws for stressing heated wings 
+
+
+Query 2 : what are the structural and aeroelastic problems associated with flight of high speed aircraft
+Indexed form for query : structur aeroelast problem associ flight high speed aircraft
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     12      1.78461  some structural and aerelastic considerations of h
+     2     51      1.40200  theory of aircraft structural models subjected to 
+     3     746     1.35257  aeroelastic problems in connection with high speed
+     4     14      1.32838  piston theory - a new aerodynamic tool for the aer
+     5     792     1.32032  some low speed problems of high speed aircraft 
+     6     100     1.29076  vibration isolation of aircraft power plants 
+     7     172     1.25211  some aerodynamic considerations of nozzle afterbod
+     8     1380    1.24011  the problem of obtaining high lift-drag ratios at 
+     9     1169    1.20669  hangling qualities experience with several vtol re
+     10    1147    1.19977  heat transfer to bodies traveling at high speed in
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     12      3.97571  some structural and aerelastic considerations of h
+     2     746     3.68988  aeroelastic problems in connection with high speed
+     3     51      3.68414  theory of aircraft structural models subjected to 
+     4     100     3.59900  vibration isolation of aircraft power plants 
+     5     1169    3.59315  hangling qualities experience with several vtol re
+     6     1089    3.58551  aerodynamic characteristics of propeller-driven vt
+     7     834     3.56978  limit design for economical missile structures 
+     8     172     3.56538  some aerodynamic considerations of nozzle afterbod
+     9     700     3.54195  two and three-dimensional unsteady lift problems i
+     10    884     3.54089  the estimation of fatigue damage on structural ele
+
+
+Query 3 : what problems of heat conduction in composite slabs have been solved so far
+Indexed form for query : problem heat conduct composit slab solv so far
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     144     1.62946  heat flow in composite slabs 
+     2     485     1.50563  linear heat flow in a composite slab 
+     3     1072    1.45142  ignition and combustion in a laminar mixing zone 
+     4     5       1.43171  one-dimensional transient heat conduction into a d
+     5     91      1.39218  periodic temperature distribution in a two-layer c
+     6     90      1.32554  periodic temperature distributions in a two-layer 
+     7     344     1.31515  some experimental techniques in mass transfer cool
+     8     542     1.27661  biot's variational principle in heat conduction 
+     9     579     1.25809  further developments of new methods in heat flow a
+     10    329     1.23807  various aerodynamic characteristics in hypersonic 
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     485     3.87754  linear heat flow in a composite slab 
+     2     5       3.85667  one-dimensional transient heat conduction into a d
+     3     144     3.82883  heat flow in composite slabs 
+     4     399     3.73836  conduction of heat in composite slabs 
+     5     90      3.68251  periodic temperature distributions in a two-layer 
+     6     91      3.66887  periodic temperature distribution in a two-layer c
+     7     181     3.66587  some problems on heat conduction in stratiform bod
+     8     542     3.56941  biot's variational principle in heat conduction 
+     9     579     3.56524  further developments of new methods in heat flow a
+     10    6       3.55670  one-dimensional transient heat flow in a multilaye
+
+
+Query 4 : can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium
+Indexed form for query : can criterion develop show empir valid flow solut chemic react ga mixtur base simplifi assumpt instantan local chemic equilibrium
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     1061    3.05230  turbulent mixing of a rocket exhaust jet with a su
+     2     166     3.02650  flow of chemically reacting gas mixtures 
+     3     185     2.84255  some possibilities of using gas mixtures other tha
+     4     488     2.67429  a reaction-rate parameter for gasdynamics of a che
+     5     575     2.65676  atomic recombination in a hypersonic wind tunnel n
+     6     576     2.63457  viscous and inviscid stagnation flow in a dissocia
+     7     24      2.62302  theory of stagnation point heat transfer in dissoc
+     8     1315    2.56874  performance estimates for the rae 6in . high-press
+     9     1072    2.53753  ignition and combustion in a laminar mixing zone 
+     10    329     2.52454  various aerodynamic characteristics in hypersonic 
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     166     8.49235  flow of chemically reacting gas mixtures 
+     2     488     8.47569  a reaction-rate parameter for gasdynamics of a che
+     3     1061    8.35633  turbulent mixing of a rocket exhaust jet with a su
+     4     167     8.32311  linearized flow of a dissociating gas 
+     5     1315    8.29659  performance estimates for the rae 6in . high-press
+     6     1189    8.29296  nonequilibrium flow past a wedge 
+     7     185     8.25713  some possibilities of using gas mixtures other tha
+     8     1374    8.25618  theoretical analysis of turbulent mixing of reacti
+     9     1275    8.25315  flow about an unsteadily rotating disc 
+     10    575     8.21284  atomic recombination in a hypersonic wind tunnel n
+
+
+Query 5 : what chemical kinetic system is applicable to hypersonic aerodynamic problems
+Indexed form for query : chemic kinet system applic hyperson aerodynam problem
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     401     1.28883  inviscid hypersonic airflows with coupled non-equi
+     2     103     1.23035  theory of mixing and chemical reaction in the oppo
+     3     552     1.16812  chemical kinetics of high temperature air 
+     4     625     1.14415  viscous and inviscid nonequilibrium gas flows 
+     5     163     1.08342  an analysis of the corridor and guidance requireme
+     6     1296    1.07350  non-equilibrium expansions of air with coupled che
+     7     1032    1.06424  on the conservativeness of various distributed for
+     8     968     1.03206  rocket propulsion systems for interplanetary fligh
+     9     943     1.02201  compressible free shear layer with finite initial 
+     10    329     0.98527  various aerodynamic characteristics in hypersonic 
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     103     3.25194  theory of mixing and chemical reaction in the oppo
+     2     1032    3.20238  on the conservativeness of various distributed for
+     3     401     3.17156  inviscid hypersonic airflows with coupled non-equi
+     4     552     3.15446  chemical kinetics of high temperature air 
+     5     968     3.14514  rocket propulsion systems for interplanetary fligh
+     6     1296    3.14308  non-equilibrium expansions of air with coupled che
+     7     943     3.14018  compressible free shear layer with finite initial 
+     8     625     3.09055  viscous and inviscid nonequilibrium gas flows 
+     9     488     3.08727  a reaction-rate parameter for gasdynamics of a che
+     10    355     3.08386  the injection of air into the dissociated hyperson
+
+
+Query 6 : what theoretical and experimental guides do we have as to turbulent couette flow behaviour
+Indexed form for query : theoret experiment guid do we turbul couett flow behaviour
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     798     1.59472  interaction between shock waves and boundary layer
+     2     315     1.49573  scale effects at high subsonic and transonic speed
+     3     491     1.38488  on the close relationship between turbulent plane-
+     4     257     1.31588  on turbulen flow between parallel plates 
+     5     344     1.28661  some experimental techniques in mass transfer cool
+     6     99      1.26478  the fundamentals of the statistical theory of turb
+     7     522     1.25366  laminar, transitional and turbulent heat transfer 
+     8     160     1.24591  approximate analytical solutions for hypersonic fl
+     9     329     1.23869  various aerodynamic characteristics in hypersonic 
+     10    767     1.22612  mathematical techniques applying to the thermal fa
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     491     4.04961  on the close relationship between turbulent plane-
+     2     121     3.92220  a theory for base pressures in transonic and super
+     3     257     3.90657  on turbulen flow between parallel plates 
+     4     315     3.88434  scale effects at high subsonic and transonic speed
+     5     148     3.87791  on displacement thickness 
+     6     798     3.85769  interaction between shock waves and boundary layer
+     7     651     3.85506  heat transfer to separated and reattached subsonic
+     8     1374    3.85359  theoretical analysis of turbulent mixing of reacti
+     9     472     3.85359  waves in supersonic flow 
+     10    287     3.85264  some theoretical low-speed loading characteristics
+
+
+Query 7 : is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack
+Indexed form for query : possibl relat avail pressur distribut ogiv forebodi zero angl attack lower surfac pressur equival ogiv forebodi angl attack
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     492     3.88215  prediction of ogive-forebody pressures at angles o
+     2     1040    3.22343  on transverse vibrations of thin, shallow elastic 
+     3     56      3.12113  an analysis of the applicability of the hypersonic
+     4     57      3.10780  applicability of the hypersonic similarity rule to
+     5     373     2.99573  the generalized expansion method and its applicati
+     6     434     2.97419  contributions of the wing panels to the forces and
+     7     232     2.97030  accuracy of approximate methods for predicting pre
+     8     124     2.95331  a summary of the supersonic pressure drag of bodie
+     9     234     2.89590  a second order shock-expansion method applicable t
+     10    122     2.83820  a simplified approximate method for the calculatio
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     492     9.04410  prediction of ogive-forebody pressures at angles o
+     2     57      8.25038  applicability of the hypersonic similarity rule to
+     3     56      8.17443  an analysis of the applicability of the hypersonic
+     4     232     8.09998  accuracy of approximate methods for predicting pre
+     5     434     8.08035  contributions of the wing panels to the forces and
+     6     124     8.06991  a summary of the supersonic pressure drag of bodie
+     7     1231    8.04868  hypersonic flow over an elliptic cone: theory and 
+     8     122     8.00956  a simplified approximate method for the calculatio
+     9     1040    8.00878  on transverse vibrations of thin, shallow elastic 
+     10    688     7.95779  tables of aerodynamic coefficients obtained from d
+
+
+Query 8 : what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack
+Indexed form for query : method dash exact approxim dash present avail predict bodi pressur angl attack
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     688     1.95545  tables of aerodynamic coefficients obtained from d
+     2     122     1.92275  a simplified approximate method for the calculatio
+     3     443     1.83436  calculated and measured pressure distributions ove
+     4     234     1.74778  a second order shock-expansion method applicable t
+     5     433     1.69373  application of two dimensional vortex theory to th
+     6     1231    1.66042  hypersonic flow over an elliptic cone: theory and 
+     7     492     1.61252  prediction of ogive-forebody pressures at angles o
+     8     232     1.60178  accuracy of approximate methods for predicting pre
+     9     476     1.59332  the blasius equation with three-point boundary con
+     10    947     1.59166  static aerodynamic characteristics of a short blun
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     492     5.44777  prediction of ogive-forebody pressures at angles o
+     2     122     5.43579  a simplified approximate method for the calculatio
+     3     688     5.43430  tables of aerodynamic coefficients obtained from d
+     4     443     5.37050  calculated and measured pressure distributions ove
+     5     1231    5.33147  hypersonic flow over an elliptic cone: theory and 
+     6     69      5.31202  predicted shock envelopes about two types of vehic
+     7     234     5.29512  a second order shock-expansion method applicable t
+     8     1083    5.29496  an investigation of fluid flow in two dimensions 
+     9     248     5.29357  the application of lighthill formula for numerical
+     10    232     5.26042  accuracy of approximate methods for predicting pre
+
+
+Query 9 : papers on internal /slip flow/ heat transfer studies
+Indexed form for query : paper intern heat transfer studi
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     45      1.04577  an investigation of separated flows, part ii: flow
+     2     102     0.86566  advantages and limitations of models 
+     3     270     0.81944  on combined free and forced convection laminar mag
+     4     101     0.78191  laminar heat transfer over blunt-nosed bodies at h
+     5     123     0.77336  the downstream influence of mass transfer at the n
+     6     784     0.73281  heat transfer through the laminar boundary layer o
+     7     168     0.73022  heat conduction through a gas with one inert inter
+     8     983     0.72599  addendum to 'heat transfer to satellite vehicles r
+     9     1268    0.72422  stable combustion of a high-velocity gas in a heat
+     10    83      0.71751  discussion of solar proton events and manned space
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     45      2.46112  an investigation of separated flows, part ii: flow
+     2     102     2.37679  advantages and limitations of models 
+     3     270     2.31153  on combined free and forced convection laminar mag
+     4     398     2.30520  heat transfer in turbulent shear flow 
+     5     549     2.29768  experimental study of the velocity and temperature
+     6     983     2.28936  addendum to 'heat transfer to satellite vehicles r
+     7     303     2.27106  effect of variable heat recombination on stagnatio
+     8     123     2.26350  the downstream influence of mass transfer at the n
+     9     144     2.26003  heat flow in composite slabs 
+     10    5       2.25562  one-dimensional transient heat conduction into a d
+
+
+Query 10 : are real-gas transport properties for air available over a wide range of enthalpies and densities
+Indexed form for query : realga transport properti air avail over wide rang enthalpi densiti
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     493     2.08378  real-gas laminar boundary layer skin friction and 
+     2     302     1.86004  approximations for the thermodynamic and transport
+     3     949     1.66253  charts for equilibrium flow properties of air in h
+     4     329     1.53660  various aerodynamic characteristics in hypersonic 
+     5     1199    1.52829  theoretical investigations of a supersonic laminar
+     6     272     1.52009  oscillatory aerodynamic coefficients for a unified
+     7     1313    1.47498  on the flow in a reflected shock tunnel 
+     8     1214    1.47380  the drag of elongated bodies over a wide reynolds 
+     9     1010    1.45963  free-flight measurements of the static and dynamic
+     10    1264    1.45798  boundary layer transition and heat transfer in sho
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     302     4.69141  approximations for the thermodynamic and transport
+     2     493     4.65702  real-gas laminar boundary layer skin friction and 
+     3     949     4.58707  charts for equilibrium flow properties of air in h
+     4     524     4.50087  stagnation point heat transfer in partially ionize
+     5     1010    4.44250  free-flight measurements of the static and dynamic
+     6     691     4.43996  calculation procedure for thermodynamic transport,
+     7     616     4.41297  determination of upper-atmosphere air density and 
+     8     405     4.41150  tables of thermal properties of gases 
+     9     1199    4.40215  theoretical investigations of a supersonic laminar
+     10    1214    4.39811  the drag of elongated bodies over a wide reynolds 
+
+
+Query 11 : is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation
+Indexed form for query : possibl find analyt similar solut strong blast wave problem newtonian approxim
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     495     2.21274  on similar solutions for strong blast waves and th
+     2     72      1.61779  boundary layer behind shock or thin expansion wave
+     3     25      1.59306  inviscid hypersonic flow over blunt-nosed slender 
+     4     556     1.54375  numerical comparison between exact and approximate
+     5     1356    1.51545  secondary flow fields embedded in hypersonic shock
+     6     1280    1.48427  wings with minimum drag due to lift in supersonic 
+     7     1375    1.47471  an approximate solution for the axisymmetric jet o
+     8     1248    1.47303  an analytic extension of the shock-expansion metho
+     9     1310    1.46459  survey of inviscid hypersonic flow theory for geom
+     10    160     1.44795  approximate analytical solutions for hypersonic fl
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     495     5.28736  on similar solutions for strong blast waves and th
+     2     654     4.87327  on the propagation and structure of the blast wave
+     3     556     4.87071  numerical comparison between exact and approximate
+     4     472     4.84046  waves in supersonic flow 
+     5     72      4.83220  boundary layer behind shock or thin expansion wave
+     6     1327    4.83114  on the propagation and structure of the blast wave
+     7     1186    4.81609  lift of slender delta wings according to newtonian
+     8     28      4.80239  a note on the explosion solution of sedov with app
+     9     305     4.79515  hypersonic strong viscous interaction on a flat pl
+     10    738     4.76862  finding zero's of arbitrary functions 
+
+
+Query 12 : how can the aerodynamic performance of channel flow ground effect machines be calculated
+Indexed form for query : can aerodynam perform channel flow ground effect machin calcul
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     624     1.47728  cruise performance of channel-flow ground effect m
+     2     966     1.43383  on fully developed channel flows,. some solutions 
+     3     704     1.34648  a systematic kernel function procedure for determi
+     4     329     1.28151  various aerodynamic characteristics in hypersonic 
+     5     792     1.27327  some low speed problems of high speed aircraft 
+     6     1164    1.20791  effect of ground proximity on the aerodynamic char
+     7     270     1.19064  on combined free and forced convection laminar mag
+     8     1209    1.18411  aerodynamic processes in the downwash-impingement 
+     9     941     1.17818  viscous compressible and incompressible flow in sl
+     10    325     1.17634  heat transfer to constant property laminar boundar
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     624     4.06690  cruise performance of channel-flow ground effect m
+     2     966     4.05193  on fully developed channel flows,. some solutions 
+     3     650     3.99832  some design problems of hovercraft 
+     4     941     3.97732  viscous compressible and incompressible flow in sl
+     5     1221    3.97435  steady flow of conducting fluids in channels under
+     6     1232    3.95478  the curtain jet 
+     7     704     3.94685  a systematic kernel function procedure for determi
+     8     270     3.92844  on combined free and forced convection laminar mag
+     9     1164    3.91663  effect of ground proximity on the aerodynamic char
+     10    325     3.90450  heat transfer to constant property laminar boundar
+
+
+Query 13 : what is the basic mechanism of the transonic aileron buzz
+Indexed form for query : basic mechan transon aileron buzz
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     496     1.95344  a theory of transonic aileron buzz, neglecting vis
+     2     903     1.35311  two dimensional transonic unsteady flow with shock
+     3     520     1.24079  wing-tail interference as a cause of 'magnus' effe
+     4     199     1.17871  measurement of two dimensional derivatives on a wi
+     5     797     1.05172  a study of the effect of leading-edge modification
+     6     1268    1.03013  stable combustion of a high-velocity gas in a heat
+     7     643     1.02922  an investigation of wing-aileron flutter using gro
+     8     660     1.00995  the fundamental solution for small steady three di
+     9     927     0.96775  investigation of normal force distributions and wa
+     10    801     0.93387  experimental study of the equivalence of transonic
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     496     2.77949  a theory of transonic aileron buzz, neglecting vis
+     2     903     2.39631  two dimensional transonic unsteady flow with shock
+     3     520     2.34839  wing-tail interference as a cause of 'magnus' effe
+     4     313     2.29826  on alternative forms for the basic equations of tr
+     5     643     2.29551  an investigation of wing-aileron flutter using gro
+     6     38      2.28032  on the prediction of mixed subsonic/supersonic pre
+     7     199     2.27060  measurement of two dimensional derivatives on a wi
+     8     440     2.26996  compilation of information on the transonic attach
+     9     880     2.24785  the design and testing of supersonic flutter model
+     10    415     2.20862  the aerodynamic design of section shapes for swept
+
+
+Query 14 : papers on shock-sound wave interaction
+Indexed form for query : paper shocksound wave interact
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     798     0.76958  interaction between shock waves and boundary layer
+     2     170     0.68339  the interaction of a reflected shock wave with the
+     3     345     0.60824  the interaction of shock waves with boundary layer
+     4     256     0.60525  an experimental study of the glancing interaction 
+     5     439     0.59931  a factor affecting transonic leading edge flow sep
+     6     1364    0.59015  an experimental investigation of the interaction b
+     7     569     0.55269  an experimental investigation of leading edge shoc
+     8     335     0.53908  the interaction between boundary layer and shock w
+     9     64      0.52345  unsteady oblique interaction of a shock wave with 
+     10    1321    0.52138  effects of a flexible boundary on hydrodynamic sta
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     170     1.48546  the interaction of a reflected shock wave with the
+     2     798     1.46709  interaction between shock waves and boundary layer
+     3     256     1.46342  an experimental study of the glancing interaction 
+     4     439     1.45479  a factor affecting transonic leading edge flow sep
+     5     335     1.44871  the interaction between boundary layer and shock w
+     6     345     1.44435  the interaction of shock waves with boundary layer
+     7     1364    1.43781  an experimental investigation of the interaction b
+     8     291     1.42657  sweepback effects in the turbulent boundary-layer 
+     9     64      1.42447  unsteady oblique interaction of a shock wave with 
+     10    569     1.40278  an experimental investigation of leading edge shoc
+
+
+Query 15 : material properties of photoelastic materials
+Indexed form for query : materi properti photoelast materi
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     462     1.47011  photo-thermoelasticity 
+     2     1025    1.14897  note on creep buckling of columns 
+     3     1097    1.09025  experimental ablation cooling 
+     4     82      1.08918  theoretical investigation of the ablation of a gla
+     5     463     1.06752  physical properties of plastics for photo-thermoel
+     6     542     1.03432  biot's variational principle in heat conduction 
+     7     1043    1.00813  on transverse vibrations of thin, shallow elastic 
+     8     1065    0.96873  a free-flight investigation of ablation of a blunt
+     9     553     0.96717  ablation of glassy materials around blunt bodies o
+     10    1099    0.95581  a theoretical study of stagnation point ablation 
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     462     2.24228  photo-thermoelasticity 
+     2     463     2.03249  physical properties of plastics for photo-thermoel
+     3     1025    2.02508  note on creep buckling of columns 
+     4     1099    2.01060  a theoretical study of stagnation point ablation 
+     5     1340    1.96296  method of controlling stiffness properties of a so
+     6     1097    1.96255  experimental ablation cooling 
+     7     761     1.95368  buckling of sandwich under normal pressure 
+     8     82      1.95180  theoretical investigation of the ablation of a gla
+     9     1043    1.95080  on transverse vibrations of thin, shallow elastic 
+     10    1096    1.94823  qualitative measurements of the effective heats of
+
+
+Query 16 : can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer
+Indexed form for query : can transvers potenti flow about bodi revolut calcul effici electron comput
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     498     2.07004  calculation of potential flow about bodies of revo
+     2     1255    1.74946  the flow about a charged body moving in the lower 
+     3     927     1.64265  investigation of normal force distributions and wa
+     4     1328    1.58942  the production of aerodynamic forces by heat addit
+     5     266     1.56612  exact solution of the neumann problem . calculatio
+     6     976     1.50524  turbulent diffusion in the wake of a blunt nosed b
+     7     869     1.46646  the calculation of transient temperature in turbin
+     8     231     1.45173  practical calculation of second-order supersonic f
+     9     106     1.43022  the transverse potential flow past a body of revol
+     10    410     1.42501  the supersonic flow about a blunt body of revoluti
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     498     5.21467  calculation of potential flow about bodies of revo
+     2     1255    4.99247  the flow about a charged body moving in the lower 
+     3     106     4.97592  the transverse potential flow past a body of revol
+     4     231     4.92268  practical calculation of second-order supersonic f
+     5     1328    4.87437  the production of aerodynamic forces by heat addit
+     6     266     4.83514  exact solution of the neumann problem . calculatio
+     7     410     4.83102  the supersonic flow about a blunt body of revoluti
+     8     248     4.82890  the application of lighthill formula for numerical
+     9     494     4.82353  axisymmetric viscous flow plast very slender bodie
+     10    1006    4.78619  free-flight measurements of the static and dynamic
+
+
+Query 17 : can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem
+Indexed form for query : can threedimension problem transvers potenti flow about bodi revolut reduc twodimension problem
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     1108    1.92843  a study of second-order supersonic flow theory 
+     2     1281    1.64870  turbulent heat transfer on blunt-nosed bodies in t
+     3     94      1.60892  the transverse curvature effect in compressible ax
+     4     1301    1.60422  compressible boundary layers on bodies of revoluti
+     5     498     1.58291  calculation of potential flow about bodies of revo
+     6     373     1.56395  the generalized expansion method and its applicati
+     7     410     1.55176  the supersonic flow about a blunt body of revoluti
+     8     927     1.53500  investigation of normal force distributions and wa
+     9     266     1.51267  exact solution of the neumann problem . calculatio
+     10    1201    1.50471  a study of slender shapes of minimum drag using th
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     1108    5.46713  a study of second-order supersonic flow theory 
+     2     106     5.37592  the transverse potential flow past a body of revol
+     3     498     5.34017  calculation of potential flow about bodies of revo
+     4     1301    5.32529  compressible boundary layers on bodies of revoluti
+     5     336     5.32526  simplified laminar boundary layer calculations for
+     6     445     5.32323  on the application of mathieu functions in the the
+     7     700     5.32207  two and three-dimensional unsteady lift problems i
+     8     1281    5.31883  turbulent heat transfer on blunt-nosed bodies in t
+     9     410     5.30933  the supersonic flow about a blunt body of revoluti
+     10    1255    5.25742  the flow about a charged body moving in the lower 
+
+
+Query 18 : are experimental pressure distributions on bodies of revolution at angle of attack available
+Indexed form for query : experiment pressur distribut bodi revolut angl attack avail
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     197     1.47442  pressure distributions on three bodies of revoluti
+     2     248     1.40230  the application of lighthill formula for numerical
+     3     234     1.35377  a second order shock-expansion method applicable t
+     4     927     1.33858  investigation of normal force distributions and wa
+     5     56      1.29098  an analysis of the applicability of the hypersonic
+     6     498     1.27227  calculation of potential flow about bodies of revo
+     7     1231    1.23268  hypersonic flow over an elliptic cone: theory and 
+     8     1352    1.20963  aerodynamic investigation of a parabolic body of r
+     9     122     1.18015  a simplified approximate method for the calculatio
+     10    1104    1.15987  aerodynamic heating of blunt nose shapes at mach n
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     197     3.77740  pressure distributions on three bodies of revoluti
+     2     248     3.75347  the application of lighthill formula for numerical
+     3     498     3.72186  calculation of potential flow about bodies of revo
+     4     234     3.69809  a second order shock-expansion method applicable t
+     5     56      3.67590  an analysis of the applicability of the hypersonic
+     6     492     3.67066  prediction of ogive-forebody pressures at angles o
+     7     1231    3.66224  hypersonic flow over an elliptic cone: theory and 
+     8     1352    3.65717  aerodynamic investigation of a parabolic body of r
+     9     927     3.63562  investigation of normal force distributions and wa
+     10    232     3.63477  accuracy of approximate methods for predicting pre
+
+
+Query 19 : does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results
+Indexed form for query : doe exist good basic treatment dynam reentri combin consider realist effect rel simplic result
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     82      2.04016  theoretical investigation of the ablation of a gla
+     2     140     1.94289  the determination of turbulent skin friction by me
+     3     1239    1.85259  body under lifting wing 
+     4     927     1.83176  investigation of normal force distributions and wa
+     5     673     1.81740  investigation of full scale split trailing edge wi
+     6     433     1.81068  application of two dimensional vortex theory to th
+     7     225     1.80003  elliptic cones alone and with wings at supersonic 
+     8     1119    1.78730  plastic stability theory of thin shells 
+     9     987     1.76161  a general theory of three dimensional flow in subs
+     10    193     1.76088  a study of inviscid flow about air foils at high s
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     706     5.99895  on som reciprocal relations in the theory of nonst
+     2     82      5.98452  theoretical investigation of the ablation of a gla
+     3     713     5.97896  static longitudinal stability characteristics of a
+     4     711     5.95688  an investigation at subsonic speeds of aerodynamic
+     5     1279    5.94326  sublimation in a hypersonic environment 
+     6     1052    5.94144  recent advances in the buckling of thin shells 
+     7     140     5.92365  the determination of turbulent skin friction by me
+     8     842     5.92126  an improvement on donnell's approximation for thin
+     9     1097    5.90601  experimental ablation cooling 
+     10    453     5.90191  the influence of two-dimensional stream shear on a
+
+
+Query 20 : has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions
+Indexed form for query : ha anyon formal determin influenc joul heat produc induc current magnetohydrodynam free convect flow under gener condit
+As per W1 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     270     2.56139  on combined free and forced convection laminar mag
+     2     500     2.48416  joule heating in magnetohydrodynamic free-convecti
+     3     625     2.10132  viscous and inviscid nonequilibrium gas flows 
+     4     329     2.08597  various aerodynamic characteristics in hypersonic 
+     5     244     2.04607  an improved smoke generator for use in the visuali
+     6     44      2.03870  tip-bluntness effects on cone pressures at m=6.85
+     7     1201    2.02016  a study of slender shapes of minimum drag using th
+     8     798     2.02009  interaction between shock waves and boundary layer
+     9     267     2.01499  steady and transient free convection of an electri
+     10    576     2.00083  viscous and inviscid stagnation flow in a dissocia
+As per W2 weight function :
+--------------------------
+     Rank Doc ID   Score   Headline
+     1     500     7.27579  joule heating in magnetohydrodynamic free-convecti
+     2     270     7.15824  on combined free and forced convection laminar mag
+     3     87      6.88574  free-convection magnetohydrodynamic flow past a po
+     4     450     6.88474  some physical interpretations of magnetohydrodynam
+     5     268     6.88389  several magnetohydrodynamic free-convection soluti
+     6     88      6.86138  magnetohydrodynamic free-convection pipe flow 
+     7     407     6.86049  stationary convection flow of an electrically cond
+     8     267     6.84081  steady and transient free convection of an electri
+     9     584     6.80354  conduction of heat in a solid with a power law of 
+     10    625     6.79750  viscous and inviscid nonequilibrium gas flows 
+
+
